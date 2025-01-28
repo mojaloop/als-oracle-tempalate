@@ -19,7 +19,7 @@
         "@hapi/inert": "^6.0.3",
         "@hapi/vision": "^6.0.1",
         "@mojaloop/central-services-logger": "^10.6.0",
-        "@mojaloop/central-services-shared": "11.5.3",
+        "@mojaloop/central-services-shared": "18.16.2",
         "blipp": "^4.0.2",
         "hapi-swagger": "^14.1.0"
     },
